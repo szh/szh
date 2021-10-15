@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Shlomo Zalman Heigh.
+- 🏢 I work as a 👨‍💻 Senior Softare Engineer at 🔐 CyberArk for the Conjur Community & Integrations team.
+- 👀 I’m interested in 3D printing, hiking, and aviation.
+- 📫 How to reach me? Find me on [LinkedIn](https://www.linkedin.com/in/szheigh/)!
